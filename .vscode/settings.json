@@ -1,0 +1,4 @@
+{
+  "shellcheck.executablePath": "${workspaceFolder}/shellcheck.sh",
+  "shellcheck.useWorkspaceRootAsCwd": true
+}
